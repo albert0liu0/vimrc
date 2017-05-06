@@ -16,4 +16,5 @@ set cursorline
 set cursorcolumn
 highlight CursorLine ctermbg=232 cterm=NONE
 highlight CursorColumn ctermbg=232 cterm=NONE
+highlight Search ctermbg=NONE cterm=underline ctermfg=NONE
 set hlsearch
